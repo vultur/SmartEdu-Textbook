@@ -92,6 +92,8 @@
 >
 > 使用 [SmartEdu Tools](#工具下载) 的优势在于可以下载所有资源类别，同时还能保证资源的时效性。
 
+> [!IMPORTANT]
+> **SmartEdu Tools** 的相关问题或答疑，请查阅：[常见问题](https://github.com/vultur/SmartEdu-Tools-App#常见问题) 或提交：[问题反馈](https://github.com/vultur/SmartEdu-Tools-App/issues/new/choose)
 
 <br />
 <br />
