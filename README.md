@@ -59,7 +59,7 @@
 > [!NOTE]
 > **SmartEdu Tools** —— 中小学智慧教育平台资源下载工具。
 >
-> 支持解析 PDF、PPT、MP3 及 MP4 等资源格式，支持批量下载和文档整理，适配 Windows 和 macOS 操作系统。
+> 支持解析 PDF、PPT、MP3 及 MP4 等资源格式，支持批量下载和文档整理。
 
 1. 下载 [SmartEdu Tools](https://github.com/vultur/SmartEdu-Tools-App) 工具
 2. 获取访问令牌，一键下载最新资源
