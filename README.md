@@ -5,19 +5,18 @@
 
 # SmartEdu Textbook
 
-<img alt="Static Badge" src="https://img.shields.io/badge/课本(PDF)-*-brightgreen?style=for-the-badge">
-<img alt="Static Badge" src="https://img.shields.io/badge/课件(PPT)-*-brightgreen?style=for-the-badge">
-<img alt="Static Badge" src="https://img.shields.io/badge/音频(MP3)-*-brightgreen?style=for-the-badge">
-<img alt="Static Badge" src="https://img.shields.io/badge/视频(MP4)-*-brightgreen?style=for-the-badge">
+![课本(PDF)](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/vultur/SmartEdu-Textbook/refs/heads/main/data.json&query=$._total.pdf.count&style=for-the-badge&label=课本(PDF)&color=brightgreen)
+![课件(PPT)](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/vultur/SmartEdu-Textbook/refs/heads/main/data.json&query=$._total.pptx.count&style=for-the-badge&label=课件(PPT)&color=brightgreen)
+![音频(MP3)](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/vultur/SmartEdu-Textbook/refs/heads/main/data.json&query=$._total.mp3.count&style=for-the-badge&label=音频(MP3)&color=brightgreen)
+![视频(MP4)](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/vultur/SmartEdu-Textbook/refs/heads/main/data.json&query=$._total.m3u8.count&style=for-the-badge&label=视频(MP4)&color=brightgreen)
+
+<img alt="Static Badge" src="https://img.shields.io/badge/教学设计(PDF)-*-orange?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/学习任务(PDF)-*-orange?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/课后练习(PDF)-*-orange?style=for-the-badge">
 <br />
 
-<img alt="Static Badge" src="https://img.shields.io/badge/教学设计(PDF)-*-brightgreen?style=for-the-badge">
-<img alt="Static Badge" src="https://img.shields.io/badge/学习任务(PDF)-*-brightgreen?style=for-the-badge">
-<img alt="Static Badge" src="https://img.shields.io/badge/课后练习(PDF)-*-brightgreen?style=for-the-badge">
-<br />
-
-<img alt="Static Badge" src="https://img.shields.io/badge/基础作业(PDF)-*-brightgreen?style=for-the-badge">
-<img alt="Static Badge" src="https://img.shields.io/badge/练习题库(DOC)-*-brightgreen?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/基础作业(PDF)-*-orange?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/练习题库(DOC)-*-orange?style=for-the-badge">
 
 智慧教育公共服务平台（Smart Education of China）—— 中小学智慧教育平台 —— 电子教材
 
