@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: 💬 社区讨论
+    url: https://github.com/vultur/SmartEdu-Textbook/discussions
+    about: 在这里获取帮助、讨论需求或交流心得
+  - name: 🙋 提交反馈
+    url: https://github.com/vultur/SmartEdu-Tools-App
+    about: 关于 SmartEdu Tools 的问题或建议
