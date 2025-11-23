@@ -1,7 +1,26 @@
 <div align="center">
 
+<img width="1920" height="560" src="https://github.com/user-attachments/assets/5e2b0df3-a5e3-4c1f-85c3-aaa4738b98d0" />
 
 # SmartEdu Textbook
+
+<img src="https://img.shields.io/badge/课本(PDF)-*-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/音频听力(MP3)-*-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/视频课程(MP4)-*-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/课件(PPT)-*-orange?style=for-the-badge">
+<br />
+
+<img src="https://img.shields.io/badge/教学设计(PDF)-*-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/学习任务(PDF)-*-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/作业练习(PDF)-*-orange?style=for-the-badge">
+<br />
+
+<img src="https://img.shields.io/badge/精品课(MP4)-*-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/习题库(DOC)-*-orange?style=for-the-badge">
+<br />
+
+<img src="https://img.shields.io/badge/基础性作业(PDF)-*-orange?style=for-the-badge">
+<br />
 
 智慧教育公共服务平台（Smart Education of China）—— 中小学智慧教育平台 —— 电子教材
 
@@ -34,6 +53,8 @@
 
 1. 抖音搜索“**小萌课堂**”（抖音号：`93919270199`）或直接扫码关注账号
 2. 私信获取网盘分享链接及提取码，免费下载所有教材资源
+
+<img width="320" height="320" src="https://github.com/user-attachments/assets/51d56e2a-904d-48d7-926d-a0c850644232" />
 
 
 ## 工具下载
@@ -107,6 +128,8 @@
 
 家庭是孩子的第一所学校，父母是孩子的第一本教科书，高质量的陪伴是最好的教育!<br />
 这个周末，不妨放下手头的杂事，陪孩子来一场精彩的户外探险吧～
+
+<img width="1920" height="560" src="https://github.com/user-attachments/assets/99382a26-a840-478c-9159-c52d058feb93" />
 
 </div>
 
